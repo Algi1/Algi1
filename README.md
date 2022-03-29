@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Algi
-- Currenlty a Civil Engineer
-- 🌱 I’m currently learning, Cloud Computing, Python, HTML, CSS and Javascript, CyberSecurity
+- Currenlty Workin as a Software Engineer
+- 🌱 I’m currently learning, CyberSecurity, Cloud Computing, Python, HTML, CSS and Javascript
 - 📫 How to reach me @AlgiTabs
 
 <!---
