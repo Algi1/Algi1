@@ -5,9 +5,12 @@ Welcome to my GitHub profile! I'm a self-taught software engineer working in the
 ## Recent Projects:
 - Password manager
 - Fantasy Football Manager
+- Portfolio website
+
 
 ## On-going Projects
-- Portfolio website
+- Python image recognition app
+- AWS Serverless Application Deployment
 
 ## Current learning focus
 - Machine learning
