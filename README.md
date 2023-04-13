@@ -2,14 +2,14 @@
 
 Welcome to my GitHub profile! I'm a self-taught software engineer working in the cybersecurity sector, with a focus on DevOps, and a passion for web development. I relish complex challenges and enjoy finding innovative solutions. As a lifelong learner, I am always eager to expand my skills and stay up-to-date with the latest technologies and best practices in this fast-paced industry. I also have a keen interest in writing and take pleasure in sharing my tech journey and experiences with others
 
-**Recent Projects:
+** Recent Projects:
 - Password manager
 - Fantasy Football Manager
 
-**On-going Projects
+** On-going Projects
 - Portfolio website
 
-**Current learning focus
+** Current learning focus
 - Machine learning
 - Javascript
 - CS50 Web dev
