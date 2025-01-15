@@ -1,8 +1,15 @@
 # 💫 About Me:
 
-Welcome to my GitHub profile! I'm a self-taught software engineer and Senior Security Engineer, with a focus on DevOps and automation. I relish complex challenges and enjoy finding innovative solutions. As a lifelong learner, I am always eager to expand my skills and stay up-to-date with the latest technologies and best practices in this fast-paced industry. I also have a keen interest in writing and take pleasure in sharing my tech journey and experiences with others
+Welcome to My GitHub Profile!
+
+I’m a self-taught software engineer and Senior Security Engineer with expertise in DevOps, automation, and cybersecurity. I thrive on tackling complex challenges and crafting innovative solutions to drive impactful results.
+
+With a strong focus on SIEM, SOC operations, and offensive security, I actively explore bug bounty programs and ethical hacking practices to enhance my skill set and stay ahead in the evolving world of cybersecurity. My passion for security extends to creating robust solutions that safeguard systems and uncover vulnerabilities.
+
+As a lifelong learner, I am committed to staying current with the latest technologies, best practices, and industry trends. I also enjoy documenting and sharing my journey—whether through technical writing or open-source contributions—helping others in the tech and security communities grow alongside me.
 
 ## Recent Projects:
+- SOC Home Lab
 - Password manager
 - Fantasy Football Manager
 - Portfolio website
