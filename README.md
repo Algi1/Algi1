@@ -30,7 +30,26 @@ As a lifelong learner, I am committed to staying current with the latest technol
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alganit) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Algi Tabir) 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+## SIEM Tools
+![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=for-the-badge&logo=Splunk&logoColor=white)  
+![Cribl](https://img.shields.io/badge/Cribl-%230081C1.svg?style=for-the-badge&logo=Cribl&logoColor=white)  
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-%230078D7.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
+
+## Cybersecurity Tools
+![Wireshark](https://img.shields.io/badge/Wireshark-%230167a8.svg?style=for-the-badge&logo=Wireshark&logoColor=white)  
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%235577FF.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white)  
+![Metasploit](https://img.shields.io/badge/Metasploit-%232C3E50.svg?style=for-the-badge&logo=Metasploit&logoColor=white)  
+![Nmap](https://img.shields.io/badge/Nmap-%230068FF.svg?style=for-the-badge&logo=Nmap&logoColor=white)  
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23FF6600.svg?style=for-the-badge&logo=PortSwigger&logoColor=white)  
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-%23000000.svg?style=for-the-badge&logo=OWASP&logoColor=white)  
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike-%23E00A1E.svg?style=for-the-badge&logo=CrowdStrike&logoColor=white)
+
+## Certifications
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-orange)
+
+## Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Algi1&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
